@@ -1,0 +1,23 @@
+{
+    "name": "Bunker Store",
+    "description": "Official Bunker Store",
+    "website": "https://mathstudy.dev/bunker",
+    "plugins": [
+        {
+            "name": "Viewer",
+            "description": "Bunker Viewer",
+            "version": "1.0.0",
+            "author": "Cattn",
+            "url": "https://raw.githubusercontent.com/Cattn/sample-bunker-plugin/main/dist/"
+        }
+    ],
+    "apps": [
+        {
+            "name": "GBA",
+            "description": "A retro game emulator!",
+            "version": "1.0.0",
+            "author": "Cattn",
+            "url": "https://raw.githubusercontent.com/Cattn/sample-bunker-app/main/dist/"
+        }
+    ]
+}
