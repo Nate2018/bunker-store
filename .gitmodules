@@ -1,0 +1,6 @@
+[submodule "plugins/bunker-viewer"]
+	path = plugins/bunker-viewer
+	url = https://github.com/Math-Study/bunker-viewer
+[submodule "apps/bunker-gbav3"]
+	path = apps/bunker-gbav3
+	url = https://github.com/Math-Study/bunker-gbav3
