@@ -5,19 +5,19 @@
     "plugins": [
         {
             "name": "Viewer",
-            "description": "Bunker Viewer",
+            "description": "View websites within bunker!",
             "version": "1.0.0",
             "author": "Cattn",
-            "url": "https://raw.githubusercontent.com/Cattn/sample-bunker-plugin/main/dist/"
+            "url": "https://raw.githubusercontent.com/Math-Study/bunker-viewer/main/dist/"
         }
     ],
     "apps": [
         {
-            "name": "GBA",
+            "name": "GBAv3",
             "description": "A retro game emulator!",
             "version": "1.0.0",
-            "author": "Cattn",
-            "url": "https://raw.githubusercontent.com/Cattn/sample-bunker-app/main/dist/"
+            "author": "Math-Study",
+            "url": "https://raw.githubusercontent.com/Math-Study/bunker-gbav3/main/dist/"
         }
     ]
 }
